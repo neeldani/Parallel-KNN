@@ -50,4 +50,4 @@ The dataset should be split in a .csv file having individual files for training 
 
 <h2> Future Works </h2>
 
-Currently, the code is functional only for matrices having number of rows divisible by number of processes (in MPI) or number of threads (in CUDA) (both can be configured in the config.h file). Future work include generalization of the algorithm by allowing any dimension matrices and designing of thee algorithm to minimize the overhead due to communication.
+Currently, the code is functional only for matrices having number of rows divisible by number of processes (in MPI) or number of threads (in CUDA) (both can be configured in the config.h file). Future works include generalization of the algorithm by allowing any dimension matrices and designing of thee algorithm to minimize the overhead due to communication.
