@@ -1,5 +1,5 @@
 # Parallel-KNN
-A Parallel implementation of the famos K-Nearest-Neighborn (KNN) algorithm in CUDA as well as MPI.
+A Parallel implementation of the famous K-Nearest-Neighborn (KNN) algorithm in CUDA as well as MPI.
 
 <h2> Dependencies </h2>
 
