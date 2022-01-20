@@ -27,7 +27,7 @@ Navigate to the project directory:
 ```console
 foo@bar:~$ cd Knn-CUDA 
 ```
-Comile and execute the MPI code:
+Compile and execute the MPI code:
 ```console
 foo@bar:~$ mpicc knnInMPI.c -o knnInMpi.out -Wall
 foo@bar:~$ mpirun -n 3 knnInMpi.out
